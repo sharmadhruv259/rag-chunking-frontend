@@ -357,3 +357,8 @@ This is a frontend reset. Previously stored documents and Qdrant collections are
 - This project is intended for learning and experimentation with RAG architectures.
 
 
+Final Project Video: https://github.com/user-attachments/assets/00b64c25-40c9-4e95-8f3f-604ab2845802
+
+
+
+
